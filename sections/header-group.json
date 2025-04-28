@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "2 coques achetés 1 offerte",
+            "text": "🎁2 coques achetés 1 offerte🎊",
+            "url": ""
+          }
+        },
+        "message_KgYV8E": {
+          "type": "message",
+          "settings": {
+            "text": "🚚Livraison offerte à partir de 30€ d’achat🚚",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_KgYV8E"
       ],
       "settings": {
         "enable_sticky": false,
