@@ -391,7 +391,8 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/C.P.-Company-x-PALACE-14.webp",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -412,7 +413,8 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/channels4_profile.jpg",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -433,7 +435,8 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/gertrude-et-gaston_236280_BEN_BLACK_20201102T140421_02.webp",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -454,7 +457,8 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/Stoneislandintro-5.jpg",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
