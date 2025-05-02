@@ -165,7 +165,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 3,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
@@ -252,11 +252,11 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Coque Jul",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
-        "background": "",
+        "link_text": "Tout voir",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -271,8 +271,32 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "title": "98%",
+            "subheading": "Taux de satisfaction",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_VimTJe": {
+          "type": "item",
+          "settings": {
+            "title": "10/20J",
+            "subheading": "Livraison rapide",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_D9LHY3": {
+          "type": "item",
+          "settings": {
+            "title": "+900",
+            "subheading": "Clients satisfait",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -282,7 +306,9 @@
         }
       },
       "block_order": [
-        "1664424181b38582d5-0"
+        "1664424181b38582d5-0",
+        "item_VimTJe",
+        "item_D9LHY3"
       ],
       "settings": {
         "full_width": true,
@@ -291,10 +317,10 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "heading_text_color": "#000000",
+        "heading_gradient": "",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
@@ -445,6 +471,7 @@
     },
     "before-after-image": {
       "type": "before-after-image",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
