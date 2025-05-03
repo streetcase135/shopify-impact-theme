@@ -883,15 +883,15 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Puis-je suivre ma commande ?",
+            "content": "<p>Oui, dès que votre commande est expédiée, vous recevrez un e-mail avec un lien de suivi pour vérifier l'état de la livraison en temps réel.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Les coques sont-elle des produits officielle des marques C.P. Company,Stone Island,Paul and Shark et autres ?",
+            "content": "<p>Non, nos coques sont des créations inspirées par l’esthétique de ces marques iconiques. Elles ne sont pas des produits officiels ni affiliés à ces marques.</p>"
           }
         },
         "166442457738b23caf-2": {
