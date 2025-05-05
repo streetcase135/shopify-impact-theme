@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "S'inscrire pour recevoir de nouvelles histoires et des offres personnalisées",
             "content": ""
           }
         },
@@ -107,8 +107,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "",
+            "content": "",
             "enable_follow_on_shop": true
           }
         }
