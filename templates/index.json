@@ -650,36 +650,24 @@
         "hot_spot_content_blur_radius": 3
       }
     },
-    "multiple-images-with-text": {
+    "multiple_images_with_text_9RfMjt": {
       "type": "multiple-images-with-text",
       "blocks": {
-        "1664424486a2b084ab-0": {
+        "item_d9G9nN": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/IMG_2757.jpg",
             "image_rotation_degrees": 0,
             "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "1664424486a2b084ab-1": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "\"Protégez votre style avec Streetcase\"",
+            "content": "<p>\"Alliez protection et style avec nos coques <em>Streetcase</em>. Design moderne, qualité premium – parce que votre téléphone mérite le meilleur.\"</p>",
             "button_url": "",
             "button_text": ""
           }
         }
       },
       "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
+        "item_d9G9nN"
       ],
       "settings": {
         "full_width": true,
@@ -925,8 +913,8 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Des questions ?",
+            "content": "<p>Vous pouvez nous contacter via notre page de contact ! Nous serons heureux de vous aider.</p>"
           }
         }
       },
@@ -972,7 +960,7 @@
     "before-after-image",
     "press",
     "hot-spots",
-    "multiple-images-with-text",
+    "multiple_images_with_text_9RfMjt",
     "featured-product",
     "feature-chart",
     "faq"

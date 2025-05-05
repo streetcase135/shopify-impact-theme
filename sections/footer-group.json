@@ -20,27 +20,14 @@
             "icon": "picto-box",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
+            "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "Livraison gratuite",
+            "content": "<p>La livraison est offerte à partir de 30€ d'achats.</p>"
           }
         },
         "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
-          }
-        },
-        "discount": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
@@ -49,21 +36,34 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "Prix attractif",
+            "content": "<p>Toute nos coques sont a moins de 10€<br/><br/></p>"
           }
         },
-        "payment": {
+        "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-lock",
+            "icon": "picto-credit-card",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "Paiement sécurisé",
+            "content": "<p>Nous acceptons un large choix de paiement tous sécurisés<br/><br/></p>"
+          }
+        },
+        "payment": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-operator",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Service Client",
+            "content": "<p>Besoin de nous contacter ? Envoyez-nous un e-mail à contact@maillotfactory.fr<br/><br/></p>"
           }
         }
       },
