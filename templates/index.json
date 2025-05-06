@@ -263,7 +263,14 @@
       "type": "featured-collection",
       "settings": {
         "collection": "jul",
-        "products": [],
+        "products": [
+          "coque-jul-5",
+          "coque-jul-1",
+          "jul",
+          "coque-jul-4",
+          "jul-4",
+          "coque-jul-copie-copie"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
