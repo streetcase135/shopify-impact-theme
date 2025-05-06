@@ -296,7 +296,14 @@
       "name": "Featured collection",
       "settings": {
         "collection": "c-p-company",
-        "products": [],
+        "products": [
+          "coque-c-p-company-18",
+          "coque-c-p-company-1",
+          "coque-c-p-company-16",
+          "coque-c-p-company-10",
+          "coque-c-p-company-20",
+          "coque-c-p-company-3"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
