@@ -100,7 +100,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "main-menu",
             "show_menu_title": true
           }
         },
