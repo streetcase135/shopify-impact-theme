@@ -267,15 +267,8 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "jul",
-        "products": [
-          "coque-jul-5",
-          "coque-jul-1",
-          "jul",
-          "coque-jul-4",
-          "jul-4",
-          "coque-jul-copie-copie"
-        ],
+        "collection": "stone-island",
+        "products": [],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
