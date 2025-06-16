@@ -26,7 +26,7 @@
         "message_KgYV8E"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
