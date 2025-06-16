@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "🎁 Pour le concert de JUL 2 coques achetés 1 offerte sur toute la collection JUL🎊",
-            "url": ""
-          }
-        },
         "message_KgYV8E": {
           "type": "message",
           "settings": {
@@ -30,7 +23,6 @@
         }
       },
       "block_order": [
-        "message",
         "message_KgYV8E"
       ],
       "settings": {
